@@ -9,4 +9,4 @@ Branch demo.
 Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 Git branch manager strategy.
-Git Change
+Git Change.
