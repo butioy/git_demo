@@ -6,3 +6,4 @@ Git tracks changes.
 Creating a new branch is quick.
 Master demo.
 Branch demo.
+Creating a new branch is quick & simple.
